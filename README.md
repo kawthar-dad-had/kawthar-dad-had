@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kawthar
+- 👋 Hi, I’m kawthar 👩🏻‍💻
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning Artificial intelligence
 - 💞️ I’m looking for an internship
